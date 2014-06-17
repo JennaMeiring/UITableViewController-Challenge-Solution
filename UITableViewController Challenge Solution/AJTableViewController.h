@@ -1,5 +1,5 @@
 //
-//  AJViewController.h
+//  AJTableViewController.h
 //  UITableViewController Challenge Solution
 //
 //  Created by Alex Shiells on 2014/06/17.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface AJViewController : UIViewController
+@interface AJTableViewController : UITableViewController
 
 @end
